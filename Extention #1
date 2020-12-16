@@ -1,0 +1,8 @@
+{
+  "name": "Extention #1",
+  "version": "0.1",
+  "manifest_version": 2
+  "icons": {
+      "Test.png"
+  }
+}
