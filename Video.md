@@ -1,1 +1,2 @@
-[Screencastify Editor] (https://edit.screencastify.com/edit)
+[Screencastify Editor](https://edit.screencastify.com/edit)
+[???](chrome://newtab)
